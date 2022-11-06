@@ -1,4 +1,6 @@
-Free Download Source Code "Parking Management System"
+Author : D.BHASKAR SATYANARAYANA
+
+"Online Parking Management System"
 
 FIRST Download
 
@@ -28,8 +30,5 @@ FIRST Download
 Create user
  
 Admin
-user: admin@admin.com	
-pass: password
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
+user: dbhaskarnani@gmail.com	
+pass: 12345678
